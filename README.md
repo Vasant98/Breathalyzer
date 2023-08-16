@@ -1,7 +1,9 @@
 # Breathalyzer
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/1.png" alt="Screen 1" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/2.jpg" alt="Screen 2" height="500">
+<p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/1.png" alt="Screen 1" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/2.jpg" alt="Screen 2" height="500">
+</p>
 
 Our team has developed a breathalyzer capable of converting a physiological signal (BrAC) to Blood Alcohol Concentration (BAC) for monitoring purposes. This monitoring is achieved through our mobile application, DrinkÉ, which utilizes Firebase. Additionally, we have incorporated 3D printing for some components of our product, making our breathalyzer relatively portable.
 
@@ -33,9 +35,11 @@ For users who have forgotten their password, they can click on the 'Reset' butto
 
 ## Home Screen
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/7.jpg" alt="Screen 7" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/8.jpg" alt="Screen 8" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/9.jpg" alt="Screen 9" height="500">
+<p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/7.jpg" alt="Screen 7" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/8.jpg" alt="Screen 8" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/9.jpg" alt="Screen 9" height="500">
+</p>
 
 After successfully signing in, users will be directed to our home page, where they can press the "Help" button. This will trigger a pop-up message containing instructions on how they can proceed.
 
@@ -43,16 +47,20 @@ During the initial setup, users are required to configure the device with a PIN 
 
 Once the device is powered on, users can press the "Connect" button within the application. This action will initiate a search and pairing process between the mobile application and our DrinkÉ breathalyzer device via Bluetooth.
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/10.jpg" alt="Screen 10" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/11.jpg" alt="Screen 11" height="500">
+<p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/10.jpg" alt="Screen 10" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/11.jpg" alt="Screen 11" height="500">
+</p>
 
 Upon establishing the connection, the application will sync with the device's process. First, it will display a warming-up message for 20 seconds, indicating that the device is preparing for use. Subsequently, the application will prompt users to blow into the device for 10 seconds.
 
 To enhance user experience and provide immediate feedback, a countdown visual display will be integrated, reducing users' uncertainty and offering real-time updates on the ongoing process.
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/12.jpg" alt="Screen 12" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/13.jpg" alt="Screen 13" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/14.jpg" alt="Screen 14" height="500">
+<p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/12.jpg" alt="Screen 12" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/13.jpg" alt="Screen 13" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/14.jpg" alt="Screen 14" height="500">
+</p>
 
 After users have blown into the device, their BAC values will be accurately displayed on the interface. Additionally, the drinking status will be classified and shown on the home screen. This information will be accompanied by the suggested time required to reach sobriety, which represents the time needed for the BAC to reach 0.
 
@@ -68,9 +76,11 @@ The DrinkÉ application utilizes the built-in GPS function of smartphones and th
 
 ## Profile Screen
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/15.jpg" alt="Screen 15" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/16.jpg" alt="Screen 16" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/17.jpg" alt="Screen 17" height="500">
+<p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/15.jpg" alt="Screen 15" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/16.jpg" alt="Screen 16" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/17.jpg" alt="Screen 17" height="500">
+</p>
 
 In the "User Profile" page, users can view and manage their personal information, including their name, email address, date of birth, gender, and emergency contact. They have the option to upload a profile photo from their local photo storage. Upon granting access to the mobile application, the image pathway is stored and synced into the Firestore cloud. This ensures that the photo will be automatically loaded when the application runs next time.
 
@@ -100,10 +110,12 @@ We have set up a "Learn" page in our mobile application to expand its functional
 
 ## Smart Scheduling Screen
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/22.jpg" alt="Screen 22" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/23.jpg" alt="Screen 23" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/24.jpg" alt="Screen 24" height="500">
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/25.jpg" alt="Screen 25" height="500">
+<p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/22.jpg" alt="Screen 22" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/23.jpg" alt="Screen 23" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/24.jpg" alt="Screen 24" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/25.jpg" alt="Screen 25" height="500">
+</p>
 
 A smart scheduling feature is integrated into our mobile application. Users are able to set a daily reminder for their alcohol test, should they wish to do so, through this feature. Users will need to set a desired time for the alcohol test, and the reminder will be visible in the phone's notification bar when they are due for an alcohol test. Users can also opt out of the smart scheduling feature at any time.
 
